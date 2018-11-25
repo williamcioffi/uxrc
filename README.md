@@ -1,0 +1,2 @@
+# uxrc
+reasonable settings
