@@ -4,9 +4,11 @@ export PATH="$PATH:~/bin"
 [ -z "$PS1" ] && return
 
 # basic
-alias l='ls -lh'
-alias la='ls -lha'
-alias lm='ls -lha | less'
+alias ll='ls -lhG'
+alias lla='ls -lhaG'
+
+alias l='ls -hG'
+alias la='ls -haG'
 
 # don't clobber
 alias rm='rm -i'
