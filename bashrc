@@ -5,6 +5,8 @@ export PATH="$PATH:~/bin"
 
 # basic
 alias l='ls -lh'
+alias la='ls -lha'
+alias lm='ls -lha | less'
 
 # don't clobber
 alias rm='rm -i'
@@ -18,3 +20,7 @@ alias badge='tput bel'
 alias dap.exe='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Wildlife\ Computers/Utilities/Argos\ Message\ Decoder.exe'
 alias instrument_helper.exe='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Wildlife\ Computers/Utilities/Instrument\ Helper.exe'
 
+# other goodies
+alias tree='tree -Csuh'
+
+# check out https://www.tldp.org/LDP/abs/html/sample-bashrc.html
