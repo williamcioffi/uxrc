@@ -18,6 +18,13 @@ alias cp='cp -i'
 # tell me something is ready
 alias badge='tput bel'
 
+# wine on mac os
+alias dap.exe='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Wildlife\ Computers/Utilities/Argos\ Message\ Decoder.exe'
+alias ih.exe='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Wildlife\ Computers/Utilities/Instrument\ Helper.exe'
+
+# mac os
+alias bbedit='open -a /Applications/BBEdit.app'
+
 # other goodies
 alias tree='tree -Csuh'
 
