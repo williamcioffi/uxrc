@@ -22,6 +22,9 @@ alias badge='tput bel'
 alias dap.exe='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Wildlife\ Computers/Utilities/Argos\ Message\ Decoder.exe'
 alias ih.exe='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Wildlife\ Computers/Utilities/Instrument\ Helper.exe'
 
+# mac os
+alias bbedit='open -a /Applications/BBEdit.app'
+
 # other goodies
 alias tree='tree -Csuh'
 
