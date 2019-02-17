@@ -1,3 +1,7 @@
-digikam depends on
+# digikam depends on
 libqt5sql5-mysql
+
+# and i use exfat drive so
+exfat-fuse
+exfat-utils
 
